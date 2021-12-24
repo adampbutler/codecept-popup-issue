@@ -1,0 +1,17 @@
+{
+  "name": "codecept-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "codeceptjs": "^3.2.2",
+    "create-codeceptjs": "^0.1.8",
+    "puppeteer": "^13.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "codeceptjs run --steps"
+  },
+  "author": "",
+  "license": "ISC"
+}
